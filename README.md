@@ -1,5 +1,5 @@
 - 👋 Olá, eu me chamo @Marciocheudon
-- 🌱 Eu atualmente estou estudando Flutter
+- 🌱 Eu atualmente estou estudando PHP
 - 📫 Você pode me achar em https://www.linkedin.com/in/marcioallves/
 
 <div>
