@@ -19,5 +19,5 @@
   ##
   
   <div>
-     <img align="center" alt="Marciocheudon-Linkedin" height="40" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+     <img align="center" alt="Marciocheudon-Linkedin" height="50" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </div>
