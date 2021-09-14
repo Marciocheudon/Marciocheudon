@@ -1,5 +1,5 @@
 - 👋 Olá, eu me chamo @Marciocheudon
-- 🌱 Eu atualmente estou estudando PHP
+- 🌱 Eu atualmente estou estudando Python
 - 📫 Você pode me achar em https://www.linkedin.com/in/marcioallves/
 
 <div>
