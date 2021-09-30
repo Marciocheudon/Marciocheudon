@@ -1,6 +1,6 @@
-- 👋 Olá, eu me chamo @Marciocheudon
-- 🌱 Eu atualmente estou estudando Python
-- 📫 Você pode me achar em https://www.linkedin.com/in/marcioallves/
+- 👋 Hello, my name is @Marciocheudon
+- 🌱 I'm currently studying Python
+- 📫 You can find me in https://www.linkedin.com/in/marcioallves/
 
 <div>
   <a href="https://github.com/Marciocheudon">
