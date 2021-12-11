@@ -1,5 +1,5 @@
 - 👋 Hello, my name is @Marciocheudon
-- 🌱 I'm currently studying Python
+- 🌱 I'm currently studying HTML, CSS and Javascript
 - 📫 You can find me in https://www.linkedin.com/in/marcioallves/
 
 <div>
