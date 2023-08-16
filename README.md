@@ -1,6 +1,5 @@
 - 👋 Hello, my name is @Marciocheudon.
-- 🌱 I'm currently studying HTML, CSS and Javascript.
-- 💻 I'm currently programming in PYTHON.
+- 💻 I'm currently programming in Flutter, Dart and Python.
 - 📫 You can find me in https://www.linkedin.com/in/marcioallves/
 
 <div>
