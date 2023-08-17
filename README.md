@@ -18,6 +18,7 @@
   <img align="center" alt="Marciocheudon-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Marciocheudon-Flutter" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img align="center" alt="Marciocheudon-Flutter" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />  
 </div>
 
   
