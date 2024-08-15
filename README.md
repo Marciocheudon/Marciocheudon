@@ -1,5 +1,5 @@
 - 👋 Hello, my name is @Marciocheudon.
-- 💻 I'm currently programming in Flutter, Dart and Python.
+- 💻 I'm currently programming in Flutter, React and Js.
 - 📫 You can find me in https://www.linkedin.com/in/marcioallves/
 
 
